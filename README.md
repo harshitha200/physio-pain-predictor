@@ -3,6 +3,8 @@ An AI-powered system to predict pain levels using physiological sensor data and 
 Predicred pain levels (Pain / No Pain) in subjects based on their physiological signals. Using machine learning techniques, specifically Support Vector Machine (SVM), the system can classify whether a subject is experiencing pain using measurements like blood pressure, respiration rate, and electrodermal activity.
 
 The goal is to provide automated pain assessment that can be useful in healthcare monitoring, wearable devices, or patient care systems where verbal feedback may not be possible.
+
+
 **Dataset**
 
 The dataset contains physiological measurements collected from multiple subjects. Key features include:
